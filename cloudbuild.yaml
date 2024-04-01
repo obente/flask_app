@@ -12,4 +12,4 @@ steps:
   artifacts:
     objects:
       location: 'gs://devops-$PROJECT_ID/$BUILD_ID'
-      pths: ['artefacts.tar.gz']
+      paths: ['artefacts.tar.gz']
